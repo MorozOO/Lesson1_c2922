@@ -3,3 +3,5 @@ t = tk.Tk()
 greeting = tk.Label(text="Привет, Tkinter!")
 greeting.pack()
 t.mainloop()
+
+#MorozOO
